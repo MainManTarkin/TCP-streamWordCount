@@ -1,0 +1,12 @@
+server_mac_fat
+client_mac_fat
+*.o
+*.a
+*.d
+client
+server
+clientTE
+serverTE
+*.log
+
+.vscode
